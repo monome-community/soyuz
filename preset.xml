@@ -1,0 +1,1247 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+
+<pattrstorage name = "preset">
+	<slot number = "1">
+		<pattr name = "length" value = "16" />
+		<pattr name = "pattern" value = "0 0 0" />
+		<pattr name = "monomeSize" value = "0" />
+		<patcher name = "midiStuff">
+			<patcher name = "noteRow">
+				<pattr name = "1_type" value = "0" />
+				<pattr name = "1_note" value = "0" />
+				<pattr name = "1_vel" value = "0" />
+				<pattr name = "1_durMs" value = "0" />
+				<pattr name = "1_durNote" value = "4" />
+			</patcher>
+			<patcher name = "noteRow[1]">
+				<pattr name = "2_type" value = "0" />
+				<pattr name = "2_note" value = "0" />
+				<pattr name = "2_vel" value = "0" />
+				<pattr name = "2_durMs" value = "0" />
+				<pattr name = "2_durNote" value = "4" />
+			</patcher>
+			<patcher name = "noteRow[3]">
+				<pattr name = "3_type" value = "0" />
+				<pattr name = "3_note" value = "0" />
+				<pattr name = "3_vel" value = "0" />
+				<pattr name = "3_durMs" value = "0" />
+				<pattr name = "3_durNote" value = "4" />
+			</patcher>
+			<patcher name = "noteRow[2]">
+				<pattr name = "4_type" value = "0" />
+				<pattr name = "4_note" value = "0" />
+				<pattr name = "4_vel" value = "0" />
+				<pattr name = "4_durMs" value = "0" />
+				<pattr name = "4_durNote" value = "4" />
+			</patcher>
+			<patcher name = "noteRow[6]">
+				<pattr name = "5_type" value = "0" />
+				<pattr name = "5_note" value = "0" />
+				<pattr name = "5_vel" value = "0" />
+				<pattr name = "5_durMs" value = "0" />
+				<pattr name = "5_durNote" value = "4" />
+			</patcher>
+			<patcher name = "noteRow[5]">
+				<pattr name = "6_type" value = "1" />
+				<pattr name = "6_note" value = "0" />
+				<pattr name = "6_vel" value = "0" />
+				<pattr name = "6_durMs" value = "0" />
+				<pattr name = "6_durNote" value = "4" />
+			</patcher>
+			<patcher name = "noteRow[4]">
+				<pattr name = "7_type" value = "0" />
+				<pattr name = "7_note" value = "0" />
+				<pattr name = "7_vel" value = "0" />
+				<pattr name = "7_durMs" value = "0" />
+				<pattr name = "7_durNote" value = "4" />
+			</patcher>
+			<patcher name = "noteRow[13]">
+				<pattr name = "8_type" value = "0" />
+				<pattr name = "8_note" value = "0" />
+				<pattr name = "8_vel" value = "0" />
+				<pattr name = "8_durMs" value = "0" />
+				<pattr name = "8_durNote" value = "4" />
+			</patcher>
+			<patcher name = "noteRow[12]">
+				<pattr name = "9_type" value = "0" />
+				<pattr name = "9_note" value = "0" />
+				<pattr name = "9_vel" value = "0" />
+				<pattr name = "9_durMs" value = "0" />
+				<pattr name = "9_durNote" value = "4" />
+			</patcher>
+			<patcher name = "noteRow[11]">
+				<pattr name = "10_type" value = "0" />
+				<pattr name = "10_note" value = "0" />
+				<pattr name = "10_vel" value = "0" />
+				<pattr name = "10_durMs" value = "0" />
+				<pattr name = "10_durNote" value = "4" />
+			</patcher>
+			<patcher name = "noteRow[10]">
+				<pattr name = "11_type" value = "0" />
+				<pattr name = "11_note" value = "0" />
+				<pattr name = "11_vel" value = "0" />
+				<pattr name = "11_durMs" value = "0" />
+				<pattr name = "11_durNote" value = "4" />
+			</patcher>
+			<patcher name = "noteRow[9]">
+				<pattr name = "12_type" value = "0" />
+				<pattr name = "12_note" value = "0" />
+				<pattr name = "12_vel" value = "0" />
+				<pattr name = "12_durMs" value = "0" />
+				<pattr name = "12_durNote" value = "4" />
+			</patcher>
+			<patcher name = "noteRow[8]">
+				<pattr name = "13_type" value = "0" />
+				<pattr name = "13_note" value = "0" />
+				<pattr name = "13_vel" value = "0" />
+				<pattr name = "13_durMs" value = "0" />
+				<pattr name = "13_durNote" value = "4" />
+			</patcher>
+			<patcher name = "noteRow[7]">
+				<pattr name = "14_type" value = "0" />
+				<pattr name = "14_note" value = "0" />
+				<pattr name = "14_vel" value = "0" />
+				<pattr name = "14_durMs" value = "0" />
+				<pattr name = "14_durNote" value = "4" />
+			</patcher>
+			<patcher name = "noteRow[27]">
+				<pattr name = "15_type" value = "0" />
+				<pattr name = "15_note" value = "0" />
+				<pattr name = "15_vel" value = "0" />
+				<pattr name = "15_durMs" value = "0" />
+				<pattr name = "15_durNote" value = "4" />
+			</patcher>
+			<patcher name = "noteRow[26]">
+				<pattr name = "16_type" value = "0" />
+				<pattr name = "16_note" value = "0" />
+				<pattr name = "16_vel" value = "0" />
+				<pattr name = "16_durMs" value = "0" />
+				<pattr name = "16_durNote" value = "4" />
+			</patcher>
+			<patcher name = "noteRow[25]">
+				<pattr name = "17_type" value = "0" />
+				<pattr name = "17_note" value = "0" />
+				<pattr name = "17_vel" value = "0" />
+				<pattr name = "17_durMs" value = "0" />
+				<pattr name = "17_durNote" value = "4" />
+			</patcher>
+			<patcher name = "noteRow[24]">
+				<pattr name = "18_type" value = "0" />
+				<pattr name = "18_note" value = "0" />
+				<pattr name = "18_vel" value = "0" />
+				<pattr name = "18_durMs" value = "0" />
+				<pattr name = "18_durNote" value = "4" />
+			</patcher>
+			<patcher name = "noteRow[23]">
+				<pattr name = "19_type" value = "0" />
+				<pattr name = "19_note" value = "0" />
+				<pattr name = "19_vel" value = "0" />
+				<pattr name = "19_durMs" value = "0" />
+				<pattr name = "19_durNote" value = "4" />
+			</patcher>
+			<patcher name = "noteRow[22]">
+				<pattr name = "20_type" value = "0" />
+				<pattr name = "20_note" value = "0" />
+				<pattr name = "20_vel" value = "0" />
+				<pattr name = "20_durMs" value = "0" />
+				<pattr name = "20_durNote" value = "4" />
+			</patcher>
+			<patcher name = "noteRow[21]">
+				<pattr name = "21_type" value = "0" />
+				<pattr name = "21_note" value = "0" />
+				<pattr name = "21_vel" value = "0" />
+				<pattr name = "21_durMs" value = "0" />
+				<pattr name = "21_durNote" value = "4" />
+			</patcher>
+			<patcher name = "noteRow[20]">
+				<pattr name = "22_type" value = "0" />
+				<pattr name = "22_note" value = "0" />
+				<pattr name = "22_vel" value = "0" />
+				<pattr name = "22_durMs" value = "0" />
+				<pattr name = "22_durNote" value = "4" />
+			</patcher>
+			<patcher name = "noteRow[19]">
+				<pattr name = "23_type" value = "0" />
+				<pattr name = "23_note" value = "0" />
+				<pattr name = "23_vel" value = "0" />
+				<pattr name = "23_durMs" value = "0" />
+				<pattr name = "23_durNote" value = "4" />
+			</patcher>
+			<patcher name = "noteRow[18]">
+				<pattr name = "24_type" value = "0" />
+				<pattr name = "24_note" value = "0" />
+				<pattr name = "24_vel" value = "0" />
+				<pattr name = "24_durMs" value = "0" />
+				<pattr name = "24_durNote" value = "4" />
+			</patcher>
+			<patcher name = "noteRow[17]">
+				<pattr name = "25_type" value = "0" />
+				<pattr name = "25_note" value = "0" />
+				<pattr name = "25_vel" value = "0" />
+				<pattr name = "25_durMs" value = "0" />
+				<pattr name = "25_durNote" value = "4" />
+			</patcher>
+			<patcher name = "noteRow[16]">
+				<pattr name = "26_type" value = "0" />
+				<pattr name = "26_note" value = "0" />
+				<pattr name = "26_vel" value = "0" />
+				<pattr name = "26_durMs" value = "0" />
+				<pattr name = "26_durNote" value = "4" />
+			</patcher>
+			<patcher name = "noteRow[15]">
+				<pattr name = "27_type" value = "0" />
+				<pattr name = "27_note" value = "0" />
+				<pattr name = "27_vel" value = "0" />
+				<pattr name = "27_durMs" value = "0" />
+				<pattr name = "27_durNote" value = "4" />
+			</patcher>
+			<patcher name = "noteRow[14]">
+				<pattr name = "28_type" value = "0" />
+				<pattr name = "28_note" value = "0" />
+				<pattr name = "28_vel" value = "0" />
+				<pattr name = "28_durMs" value = "0" />
+				<pattr name = "28_durNote" value = "4" />
+			</patcher>
+			<pattr name = "chan1" value = "" />
+			<pattr name = "chan2" value = "" />
+			<pattr name = "chan3" value = "" />
+			<pattr name = "chan4" value = "" />
+		</patcher>
+	</slot>
+	<slot number = "2">
+		<pattr name = "length" value = "16" />
+		<pattr name = "pattern" value = "0 0 1 2 5 1 4 0 1 4 1 1 6 5 1 8 0 1 10 5 1 12 0 1 12 1 1 14 5 1 15 0 1" />
+		<pattr name = "monomeSize" value = "0" />
+		<patcher name = "midiStuff">
+			<patcher name = "noteRow">
+				<pattr name = "1_type" value = "1" />
+				<pattr name = "1_note" value = "60" />
+				<pattr name = "1_vel" value = "100" />
+				<pattr name = "1_durMs" value = "0" />
+				<pattr name = "1_durNote" value = "4" />
+			</patcher>
+			<patcher name = "noteRow[1]">
+				<pattr name = "2_type" value = "1" />
+				<pattr name = "2_note" value = "62" />
+				<pattr name = "2_vel" value = "100" />
+				<pattr name = "2_durMs" value = "0" />
+				<pattr name = "2_durNote" value = "4" />
+			</patcher>
+			<patcher name = "noteRow[3]">
+				<pattr name = "3_type" value = "1" />
+				<pattr name = "3_note" value = "64" />
+				<pattr name = "3_vel" value = "100" />
+				<pattr name = "3_durMs" value = "0" />
+				<pattr name = "3_durNote" value = "4" />
+			</patcher>
+			<patcher name = "noteRow[2]">
+				<pattr name = "4_type" value = "1" />
+				<pattr name = "4_note" value = "65" />
+				<pattr name = "4_vel" value = "100" />
+				<pattr name = "4_durMs" value = "0" />
+				<pattr name = "4_durNote" value = "4" />
+			</patcher>
+			<patcher name = "noteRow[6]">
+				<pattr name = "5_type" value = "1" />
+				<pattr name = "5_note" value = "67" />
+				<pattr name = "5_vel" value = "100" />
+				<pattr name = "5_durMs" value = "0" />
+				<pattr name = "5_durNote" value = "4" />
+			</patcher>
+			<patcher name = "noteRow[5]">
+				<pattr name = "6_type" value = "1" />
+				<pattr name = "6_note" value = "69" />
+				<pattr name = "6_vel" value = "100" />
+				<pattr name = "6_durMs" value = "0" />
+				<pattr name = "6_durNote" value = "4" />
+			</patcher>
+			<patcher name = "noteRow[4]">
+				<pattr name = "7_type" value = "1" />
+				<pattr name = "7_note" value = "71" />
+				<pattr name = "7_vel" value = "100" />
+				<pattr name = "7_durMs" value = "0" />
+				<pattr name = "7_durNote" value = "4" />
+			</patcher>
+			<patcher name = "noteRow[13]">
+				<pattr name = "8_type" value = "0" />
+				<pattr name = "8_note" value = "0" />
+				<pattr name = "8_vel" value = "0" />
+				<pattr name = "8_durMs" value = "0" />
+				<pattr name = "8_durNote" value = "4" />
+			</patcher>
+			<patcher name = "noteRow[12]">
+				<pattr name = "9_type" value = "0" />
+				<pattr name = "9_note" value = "0" />
+				<pattr name = "9_vel" value = "0" />
+				<pattr name = "9_durMs" value = "0" />
+				<pattr name = "9_durNote" value = "4" />
+			</patcher>
+			<patcher name = "noteRow[11]">
+				<pattr name = "10_type" value = "0" />
+				<pattr name = "10_note" value = "0" />
+				<pattr name = "10_vel" value = "0" />
+				<pattr name = "10_durMs" value = "0" />
+				<pattr name = "10_durNote" value = "4" />
+			</patcher>
+			<patcher name = "noteRow[10]">
+				<pattr name = "11_type" value = "0" />
+				<pattr name = "11_note" value = "0" />
+				<pattr name = "11_vel" value = "0" />
+				<pattr name = "11_durMs" value = "0" />
+				<pattr name = "11_durNote" value = "4" />
+			</patcher>
+			<patcher name = "noteRow[9]">
+				<pattr name = "12_type" value = "0" />
+				<pattr name = "12_note" value = "0" />
+				<pattr name = "12_vel" value = "0" />
+				<pattr name = "12_durMs" value = "0" />
+				<pattr name = "12_durNote" value = "4" />
+			</patcher>
+			<patcher name = "noteRow[8]">
+				<pattr name = "13_type" value = "0" />
+				<pattr name = "13_note" value = "0" />
+				<pattr name = "13_vel" value = "0" />
+				<pattr name = "13_durMs" value = "0" />
+				<pattr name = "13_durNote" value = "4" />
+			</patcher>
+			<patcher name = "noteRow[7]">
+				<pattr name = "14_type" value = "0" />
+				<pattr name = "14_note" value = "0" />
+				<pattr name = "14_vel" value = "0" />
+				<pattr name = "14_durMs" value = "0" />
+				<pattr name = "14_durNote" value = "4" />
+			</patcher>
+			<patcher name = "noteRow[27]">
+				<pattr name = "15_type" value = "0" />
+				<pattr name = "15_note" value = "0" />
+				<pattr name = "15_vel" value = "0" />
+				<pattr name = "15_durMs" value = "0" />
+				<pattr name = "15_durNote" value = "4" />
+			</patcher>
+			<patcher name = "noteRow[26]">
+				<pattr name = "16_type" value = "0" />
+				<pattr name = "16_note" value = "0" />
+				<pattr name = "16_vel" value = "0" />
+				<pattr name = "16_durMs" value = "0" />
+				<pattr name = "16_durNote" value = "4" />
+			</patcher>
+			<patcher name = "noteRow[25]">
+				<pattr name = "17_type" value = "0" />
+				<pattr name = "17_note" value = "0" />
+				<pattr name = "17_vel" value = "0" />
+				<pattr name = "17_durMs" value = "0" />
+				<pattr name = "17_durNote" value = "4" />
+			</patcher>
+			<patcher name = "noteRow[24]">
+				<pattr name = "18_type" value = "0" />
+				<pattr name = "18_note" value = "0" />
+				<pattr name = "18_vel" value = "0" />
+				<pattr name = "18_durMs" value = "0" />
+				<pattr name = "18_durNote" value = "4" />
+			</patcher>
+			<patcher name = "noteRow[23]">
+				<pattr name = "19_type" value = "0" />
+				<pattr name = "19_note" value = "0" />
+				<pattr name = "19_vel" value = "0" />
+				<pattr name = "19_durMs" value = "0" />
+				<pattr name = "19_durNote" value = "4" />
+			</patcher>
+			<patcher name = "noteRow[22]">
+				<pattr name = "20_type" value = "0" />
+				<pattr name = "20_note" value = "0" />
+				<pattr name = "20_vel" value = "0" />
+				<pattr name = "20_durMs" value = "0" />
+				<pattr name = "20_durNote" value = "4" />
+			</patcher>
+			<patcher name = "noteRow[21]">
+				<pattr name = "21_type" value = "0" />
+				<pattr name = "21_note" value = "0" />
+				<pattr name = "21_vel" value = "0" />
+				<pattr name = "21_durMs" value = "0" />
+				<pattr name = "21_durNote" value = "4" />
+			</patcher>
+			<patcher name = "noteRow[20]">
+				<pattr name = "22_type" value = "0" />
+				<pattr name = "22_note" value = "0" />
+				<pattr name = "22_vel" value = "0" />
+				<pattr name = "22_durMs" value = "0" />
+				<pattr name = "22_durNote" value = "4" />
+			</patcher>
+			<patcher name = "noteRow[19]">
+				<pattr name = "23_type" value = "0" />
+				<pattr name = "23_note" value = "0" />
+				<pattr name = "23_vel" value = "0" />
+				<pattr name = "23_durMs" value = "0" />
+				<pattr name = "23_durNote" value = "4" />
+			</patcher>
+			<patcher name = "noteRow[18]">
+				<pattr name = "24_type" value = "0" />
+				<pattr name = "24_note" value = "0" />
+				<pattr name = "24_vel" value = "0" />
+				<pattr name = "24_durMs" value = "0" />
+				<pattr name = "24_durNote" value = "4" />
+			</patcher>
+			<patcher name = "noteRow[17]">
+				<pattr name = "25_type" value = "0" />
+				<pattr name = "25_note" value = "0" />
+				<pattr name = "25_vel" value = "0" />
+				<pattr name = "25_durMs" value = "0" />
+				<pattr name = "25_durNote" value = "4" />
+			</patcher>
+			<patcher name = "noteRow[16]">
+				<pattr name = "26_type" value = "0" />
+				<pattr name = "26_note" value = "0" />
+				<pattr name = "26_vel" value = "0" />
+				<pattr name = "26_durMs" value = "0" />
+				<pattr name = "26_durNote" value = "4" />
+			</patcher>
+			<patcher name = "noteRow[15]">
+				<pattr name = "27_type" value = "0" />
+				<pattr name = "27_note" value = "0" />
+				<pattr name = "27_vel" value = "0" />
+				<pattr name = "27_durMs" value = "0" />
+				<pattr name = "27_durNote" value = "4" />
+			</patcher>
+			<patcher name = "noteRow[14]">
+				<pattr name = "28_type" value = "0" />
+				<pattr name = "28_note" value = "0" />
+				<pattr name = "28_vel" value = "0" />
+				<pattr name = "28_durMs" value = "0" />
+				<pattr name = "28_durNote" value = "4" />
+			</patcher>
+			<pattr name = "chan1" value = "" />
+			<pattr name = "chan2" value = "" />
+			<pattr name = "chan3" value = "" />
+			<pattr name = "chan4" value = "" />
+		</patcher>
+	</slot>
+	<slot number = "3">
+		<pattr name = "length" value = "16" />
+		<pattr name = "pattern" value = "0 0 1 0 5 1 2 0 1 2 5 1 4 1 1 4 5 1 6 5 1 8 0 1 8 5 1 10 0 1 10 5 1 12 1 1 12 5 1 14 5 1" />
+		<pattr name = "monomeSize" value = "" />
+		<patcher name = "midiStuff">
+			<patcher name = "noteRow">
+				<pattr name = "1_type" value = "1" />
+				<pattr name = "1_note" value = "36" />
+				<pattr name = "1_vel" value = "100" />
+				<pattr name = "1_durMs" value = "0" />
+				<pattr name = "1_durNote" value = "4" />
+			</patcher>
+			<patcher name = "noteRow[1]">
+				<pattr name = "2_type" value = "1" />
+				<pattr name = "2_note" value = "37" />
+				<pattr name = "2_vel" value = "100" />
+				<pattr name = "2_durMs" value = "0" />
+				<pattr name = "2_durNote" value = "4" />
+			</patcher>
+			<patcher name = "noteRow[3]">
+				<pattr name = "3_type" value = "" />
+				<pattr name = "3_note" value = "38" />
+				<pattr name = "3_vel" value = "100" />
+				<pattr name = "3_durMs" value = "" />
+				<pattr name = "3_durNote" value = "" />
+			</patcher>
+			<patcher name = "noteRow[2]">
+				<pattr name = "4_type" value = "" />
+				<pattr name = "4_note" value = "39" />
+				<pattr name = "4_vel" value = "100" />
+				<pattr name = "4_durMs" value = "" />
+				<pattr name = "4_durNote" value = "" />
+			</patcher>
+			<patcher name = "noteRow[6]">
+				<pattr name = "5_type" value = "" />
+				<pattr name = "5_note" value = "40" />
+				<pattr name = "5_vel" value = "100" />
+				<pattr name = "5_durMs" value = "" />
+				<pattr name = "5_durNote" value = "" />
+			</patcher>
+			<patcher name = "noteRow[5]">
+				<pattr name = "6_type" value = "1" />
+				<pattr name = "6_note" value = "41" />
+				<pattr name = "6_vel" value = "100" />
+				<pattr name = "6_durMs" value = "0" />
+				<pattr name = "6_durNote" value = "4" />
+			</patcher>
+			<patcher name = "noteRow[4]">
+				<pattr name = "7_type" value = "" />
+				<pattr name = "7_note" value = "42" />
+				<pattr name = "7_vel" value = "100" />
+				<pattr name = "7_durMs" value = "" />
+				<pattr name = "7_durNote" value = "" />
+			</patcher>
+			<patcher name = "noteRow[13]">
+				<pattr name = "8_type" value = "1" />
+				<pattr name = "8_note" value = "43" />
+				<pattr name = "8_vel" value = "100" />
+				<pattr name = "8_durMs" value = "" />
+				<pattr name = "8_durNote" value = "" />
+			</patcher>
+			<patcher name = "noteRow[12]">
+				<pattr name = "9_type" value = "1" />
+				<pattr name = "9_note" value = "44" />
+				<pattr name = "9_vel" value = "100" />
+				<pattr name = "9_durMs" value = "" />
+				<pattr name = "9_durNote" value = "" />
+			</patcher>
+			<patcher name = "noteRow[11]">
+				<pattr name = "10_type" value = "1" />
+				<pattr name = "10_note" value = "57" />
+				<pattr name = "10_vel" value = "100" />
+				<pattr name = "10_durMs" value = "" />
+				<pattr name = "10_durNote" value = "" />
+			</patcher>
+			<patcher name = "noteRow[10]">
+				<pattr name = "11_type" value = "1" />
+				<pattr name = "11_note" value = "58" />
+				<pattr name = "11_vel" value = "100" />
+				<pattr name = "11_durMs" value = "" />
+				<pattr name = "11_durNote" value = "" />
+			</patcher>
+			<patcher name = "noteRow[9]">
+				<pattr name = "12_type" value = "1" />
+				<pattr name = "12_note" value = "59" />
+				<pattr name = "12_vel" value = "100" />
+				<pattr name = "12_durMs" value = "" />
+				<pattr name = "12_durNote" value = "" />
+			</patcher>
+			<patcher name = "noteRow[8]">
+				<pattr name = "13_type" value = "1" />
+				<pattr name = "13_note" value = "48" />
+				<pattr name = "13_vel" value = "100" />
+				<pattr name = "13_durMs" value = "" />
+				<pattr name = "13_durNote" value = "" />
+			</patcher>
+			<patcher name = "noteRow[7]">
+				<pattr name = "14_type" value = "1" />
+				<pattr name = "14_note" value = "49" />
+				<pattr name = "14_vel" value = "100" />
+				<pattr name = "14_durMs" value = "" />
+				<pattr name = "14_durNote" value = "" />
+			</patcher>
+			<patcher name = "noteRow[27]">
+				<pattr name = "15_type" value = "1" />
+				<pattr name = "15_note" value = "50" />
+				<pattr name = "15_vel" value = "100" />
+				<pattr name = "15_durMs" value = "" />
+				<pattr name = "15_durNote" value = "" />
+			</patcher>
+			<patcher name = "noteRow[26]">
+				<pattr name = "16_type" value = "1" />
+				<pattr name = "16_note" value = "51" />
+				<pattr name = "16_vel" value = "100" />
+				<pattr name = "16_durMs" value = "" />
+				<pattr name = "16_durNote" value = "" />
+			</patcher>
+			<patcher name = "noteRow[25]">
+				<pattr name = "17_type" value = "1" />
+				<pattr name = "17_note" value = "52" />
+				<pattr name = "17_vel" value = "100" />
+				<pattr name = "17_durMs" value = "" />
+				<pattr name = "17_durNote" value = "" />
+			</patcher>
+			<patcher name = "noteRow[24]">
+				<pattr name = "18_type" value = "1" />
+				<pattr name = "18_note" value = "53" />
+				<pattr name = "18_vel" value = "100" />
+				<pattr name = "18_durMs" value = "" />
+				<pattr name = "18_durNote" value = "" />
+			</patcher>
+			<patcher name = "noteRow[23]">
+				<pattr name = "19_type" value = "1" />
+				<pattr name = "19_note" value = "6" />
+				<pattr name = "19_vel" value = "100" />
+				<pattr name = "19_durMs" value = "" />
+				<pattr name = "19_durNote" value = "" />
+			</patcher>
+			<patcher name = "noteRow[22]">
+				<pattr name = "20_type" value = "1" />
+				<pattr name = "20_note" value = "55" />
+				<pattr name = "20_vel" value = "100" />
+				<pattr name = "20_durMs" value = "" />
+				<pattr name = "20_durNote" value = "" />
+			</patcher>
+			<patcher name = "noteRow[21]">
+				<pattr name = "21_type" value = "1" />
+				<pattr name = "21_note" value = "56" />
+				<pattr name = "21_vel" value = "100" />
+				<pattr name = "21_durMs" value = "" />
+				<pattr name = "21_durNote" value = "" />
+			</patcher>
+			<patcher name = "noteRow[20]">
+				<pattr name = "22_type" value = "1" />
+				<pattr name = "22_note" value = "69" />
+				<pattr name = "22_vel" value = "100" />
+				<pattr name = "22_durMs" value = "" />
+				<pattr name = "22_durNote" value = "" />
+			</patcher>
+			<patcher name = "noteRow[19]">
+				<pattr name = "23_type" value = "1" />
+				<pattr name = "23_note" value = "70" />
+				<pattr name = "23_vel" value = "100" />
+				<pattr name = "23_durMs" value = "" />
+				<pattr name = "23_durNote" value = "" />
+			</patcher>
+			<patcher name = "noteRow[18]">
+				<pattr name = "24_type" value = "1" />
+				<pattr name = "24_note" value = "71" />
+				<pattr name = "24_vel" value = "100" />
+				<pattr name = "24_durMs" value = "" />
+				<pattr name = "24_durNote" value = "" />
+			</patcher>
+			<patcher name = "noteRow[17]">
+				<pattr name = "25_type" value = "1" />
+				<pattr name = "25_note" value = "60" />
+				<pattr name = "25_vel" value = "100" />
+				<pattr name = "25_durMs" value = "" />
+				<pattr name = "25_durNote" value = "" />
+			</patcher>
+			<patcher name = "noteRow[16]">
+				<pattr name = "26_type" value = "1" />
+				<pattr name = "26_note" value = "61" />
+				<pattr name = "26_vel" value = "100" />
+				<pattr name = "26_durMs" value = "" />
+				<pattr name = "26_durNote" value = "" />
+			</patcher>
+			<patcher name = "noteRow[15]">
+				<pattr name = "27_type" value = "1" />
+				<pattr name = "27_note" value = "62" />
+				<pattr name = "27_vel" value = "100" />
+				<pattr name = "27_durMs" value = "" />
+				<pattr name = "27_durNote" value = "" />
+			</patcher>
+			<patcher name = "noteRow[14]">
+				<pattr name = "28_type" value = "1" />
+				<pattr name = "28_note" value = "63" />
+				<pattr name = "28_vel" value = "100" />
+				<pattr name = "28_durMs" value = "" />
+				<pattr name = "28_durNote" value = "" />
+			</patcher>
+			<pattr name = "chan1" value = "" />
+			<pattr name = "chan2" value = "" />
+			<pattr name = "chan3" value = "" />
+			<pattr name = "chan4" value = "" />
+		</patcher>
+	</slot>
+	<slot number = "4">
+		<pattr name = "length" value = "28" />
+		<pattr name = "pattern" value = "0 0 1 1 1 1 2 2 1 3 3 1 4 4 1 5 5 1 6 6 1 7 7 1 8 8 1 9 9 1 10 10 1 11 11 1 12 12 1 13 13 1 14 14 1 15 15 1 16 16 1 17 17 1 18 18 1 19 19 1 20 20 1 21 21 1 22 22 1 23 23 1 24 24 1 25 25 1 26 26 1 27 27 1" />
+		<pattr name = "monomeSize" value = "0" />
+		<patcher name = "midiStuff">
+			<patcher name = "noteRow">
+				<pattr name = "1_type" value = "1" />
+				<pattr name = "1_note" value = "48" />
+				<pattr name = "1_vel" value = "100" />
+				<pattr name = "1_durMs" value = "0" />
+				<pattr name = "1_durNote" value = "4" />
+			</patcher>
+			<patcher name = "noteRow[1]">
+				<pattr name = "2_type" value = "1" />
+				<pattr name = "2_note" value = "50" />
+				<pattr name = "2_vel" value = "100" />
+				<pattr name = "2_durMs" value = "0" />
+				<pattr name = "2_durNote" value = "4" />
+			</patcher>
+			<patcher name = "noteRow[3]">
+				<pattr name = "3_type" value = "1" />
+				<pattr name = "3_note" value = "52" />
+				<pattr name = "3_vel" value = "100" />
+				<pattr name = "3_durMs" value = "0" />
+				<pattr name = "3_durNote" value = "4" />
+			</patcher>
+			<patcher name = "noteRow[2]">
+				<pattr name = "4_type" value = "1" />
+				<pattr name = "4_note" value = "53" />
+				<pattr name = "4_vel" value = "100" />
+				<pattr name = "4_durMs" value = "0" />
+				<pattr name = "4_durNote" value = "4" />
+			</patcher>
+			<patcher name = "noteRow[6]">
+				<pattr name = "5_type" value = "1" />
+				<pattr name = "5_note" value = "55" />
+				<pattr name = "5_vel" value = "100" />
+				<pattr name = "5_durMs" value = "0" />
+				<pattr name = "5_durNote" value = "4" />
+			</patcher>
+			<patcher name = "noteRow[5]">
+				<pattr name = "6_type" value = "1" />
+				<pattr name = "6_note" value = "57" />
+				<pattr name = "6_vel" value = "100" />
+				<pattr name = "6_durMs" value = "0" />
+				<pattr name = "6_durNote" value = "4" />
+			</patcher>
+			<patcher name = "noteRow[4]">
+				<pattr name = "7_type" value = "1" />
+				<pattr name = "7_note" value = "59" />
+				<pattr name = "7_vel" value = "100" />
+				<pattr name = "7_durMs" value = "0" />
+				<pattr name = "7_durNote" value = "4" />
+			</patcher>
+			<patcher name = "noteRow[13]">
+				<pattr name = "8_type" value = "1" />
+				<pattr name = "8_note" value = "60" />
+				<pattr name = "8_vel" value = "100" />
+				<pattr name = "8_durMs" value = "0" />
+				<pattr name = "8_durNote" value = "4" />
+			</patcher>
+			<patcher name = "noteRow[12]">
+				<pattr name = "9_type" value = "1" />
+				<pattr name = "9_note" value = "62" />
+				<pattr name = "9_vel" value = "100" />
+				<pattr name = "9_durMs" value = "0" />
+				<pattr name = "9_durNote" value = "4" />
+			</patcher>
+			<patcher name = "noteRow[11]">
+				<pattr name = "10_type" value = "1" />
+				<pattr name = "10_note" value = "64" />
+				<pattr name = "10_vel" value = "100" />
+				<pattr name = "10_durMs" value = "0" />
+				<pattr name = "10_durNote" value = "4" />
+			</patcher>
+			<patcher name = "noteRow[10]">
+				<pattr name = "11_type" value = "1" />
+				<pattr name = "11_note" value = "65" />
+				<pattr name = "11_vel" value = "100" />
+				<pattr name = "11_durMs" value = "0" />
+				<pattr name = "11_durNote" value = "4" />
+			</patcher>
+			<patcher name = "noteRow[9]">
+				<pattr name = "12_type" value = "1" />
+				<pattr name = "12_note" value = "67" />
+				<pattr name = "12_vel" value = "100" />
+				<pattr name = "12_durMs" value = "0" />
+				<pattr name = "12_durNote" value = "4" />
+			</patcher>
+			<patcher name = "noteRow[8]">
+				<pattr name = "13_type" value = "1" />
+				<pattr name = "13_note" value = "69" />
+				<pattr name = "13_vel" value = "100" />
+				<pattr name = "13_durMs" value = "0" />
+				<pattr name = "13_durNote" value = "4" />
+			</patcher>
+			<patcher name = "noteRow[7]">
+				<pattr name = "14_type" value = "1" />
+				<pattr name = "14_note" value = "71" />
+				<pattr name = "14_vel" value = "100" />
+				<pattr name = "14_durMs" value = "0" />
+				<pattr name = "14_durNote" value = "4" />
+			</patcher>
+			<patcher name = "noteRow[27]">
+				<pattr name = "15_type" value = "1" />
+				<pattr name = "15_note" value = "72" />
+				<pattr name = "15_vel" value = "100" />
+				<pattr name = "15_durMs" value = "0" />
+				<pattr name = "15_durNote" value = "4" />
+			</patcher>
+			<patcher name = "noteRow[26]">
+				<pattr name = "16_type" value = "1" />
+				<pattr name = "16_note" value = "74" />
+				<pattr name = "16_vel" value = "100" />
+				<pattr name = "16_durMs" value = "0" />
+				<pattr name = "16_durNote" value = "4" />
+			</patcher>
+			<patcher name = "noteRow[25]">
+				<pattr name = "17_type" value = "1" />
+				<pattr name = "17_note" value = "76" />
+				<pattr name = "17_vel" value = "100" />
+				<pattr name = "17_durMs" value = "0" />
+				<pattr name = "17_durNote" value = "4" />
+			</patcher>
+			<patcher name = "noteRow[24]">
+				<pattr name = "18_type" value = "1" />
+				<pattr name = "18_note" value = "77" />
+				<pattr name = "18_vel" value = "100" />
+				<pattr name = "18_durMs" value = "0" />
+				<pattr name = "18_durNote" value = "4" />
+			</patcher>
+			<patcher name = "noteRow[23]">
+				<pattr name = "19_type" value = "1" />
+				<pattr name = "19_note" value = "79" />
+				<pattr name = "19_vel" value = "100" />
+				<pattr name = "19_durMs" value = "0" />
+				<pattr name = "19_durNote" value = "4" />
+			</patcher>
+			<patcher name = "noteRow[22]">
+				<pattr name = "20_type" value = "1" />
+				<pattr name = "20_note" value = "81" />
+				<pattr name = "20_vel" value = "100" />
+				<pattr name = "20_durMs" value = "0" />
+				<pattr name = "20_durNote" value = "4" />
+			</patcher>
+			<patcher name = "noteRow[21]">
+				<pattr name = "21_type" value = "1" />
+				<pattr name = "21_note" value = "83" />
+				<pattr name = "21_vel" value = "100" />
+				<pattr name = "21_durMs" value = "0" />
+				<pattr name = "21_durNote" value = "4" />
+			</patcher>
+			<patcher name = "noteRow[20]">
+				<pattr name = "22_type" value = "1" />
+				<pattr name = "22_note" value = "84" />
+				<pattr name = "22_vel" value = "100" />
+				<pattr name = "22_durMs" value = "0" />
+				<pattr name = "22_durNote" value = "4" />
+			</patcher>
+			<patcher name = "noteRow[19]">
+				<pattr name = "23_type" value = "1" />
+				<pattr name = "23_note" value = "86" />
+				<pattr name = "23_vel" value = "100" />
+				<pattr name = "23_durMs" value = "0" />
+				<pattr name = "23_durNote" value = "4" />
+			</patcher>
+			<patcher name = "noteRow[18]">
+				<pattr name = "24_type" value = "1" />
+				<pattr name = "24_note" value = "88" />
+				<pattr name = "24_vel" value = "100" />
+				<pattr name = "24_durMs" value = "0" />
+				<pattr name = "24_durNote" value = "4" />
+			</patcher>
+			<patcher name = "noteRow[17]">
+				<pattr name = "25_type" value = "1" />
+				<pattr name = "25_note" value = "89" />
+				<pattr name = "25_vel" value = "100" />
+				<pattr name = "25_durMs" value = "0" />
+				<pattr name = "25_durNote" value = "4" />
+			</patcher>
+			<patcher name = "noteRow[16]">
+				<pattr name = "26_type" value = "1" />
+				<pattr name = "26_note" value = "91" />
+				<pattr name = "26_vel" value = "100" />
+				<pattr name = "26_durMs" value = "0" />
+				<pattr name = "26_durNote" value = "4" />
+			</patcher>
+			<patcher name = "noteRow[15]">
+				<pattr name = "27_type" value = "1" />
+				<pattr name = "27_note" value = "93" />
+				<pattr name = "27_vel" value = "100" />
+				<pattr name = "27_durMs" value = "0" />
+				<pattr name = "27_durNote" value = "4" />
+			</patcher>
+			<patcher name = "noteRow[14]">
+				<pattr name = "28_type" value = "1" />
+				<pattr name = "28_note" value = "95" />
+				<pattr name = "28_vel" value = "100" />
+				<pattr name = "28_durMs" value = "0" />
+				<pattr name = "28_durNote" value = "4" />
+			</patcher>
+			<pattr name = "chan1" value = "" />
+			<pattr name = "chan2" value = "" />
+			<pattr name = "chan3" value = "" />
+			<pattr name = "chan4" value = "" />
+		</patcher>
+	</slot>
+	<slot number = "5">
+		<pattr name = "length" value = "28" />
+		<pattr name = "pattern" value = "0 0 1 1 1 1 2 2 1 3 3 1 4 4 1 5 5 1 6 6 1 7 7 1 8 0 1 8 8 1 9 1 1 9 9 1 10 2 1 10 10 1 11 3 1 11 11 1 12 4 1 12 12 1 13 5 1 13 13 1 14 6 1 14 14 1 15 7 1 15 15 1 16 0 1 16 8 1 16 16 1 17 1 1 17 9 1 17 17 1 18 2 1 18 10 1 18 18 1 19 3 1 19 11 1 19 19 1 20 4 1 20 12 1 20 20 1 21 5 1 21 13 1 21 21 1 22 6 1 22 14 1 22 22 1 23 7 1 23 15 1 23 23 1 24 0 1 24 8 1 24 16 1 24 24 1 25 1 1 25 9 1 25 17 1 25 25 1 26 2 1 26 10 1 26 18 1 26 26 1 27 3 1 27 11 1 27 19 1 27 27 1" />
+		<pattr name = "monomeSize" value = "0" />
+		<patcher name = "midiStuff">
+			<patcher name = "noteRow">
+				<pattr name = "1_type" value = "1" />
+				<pattr name = "1_note" value = "48" />
+				<pattr name = "1_vel" value = "100" />
+				<pattr name = "1_durMs" value = "0" />
+				<pattr name = "1_durNote" value = "4" />
+			</patcher>
+			<patcher name = "noteRow[1]">
+				<pattr name = "2_type" value = "1" />
+				<pattr name = "2_note" value = "50" />
+				<pattr name = "2_vel" value = "100" />
+				<pattr name = "2_durMs" value = "0" />
+				<pattr name = "2_durNote" value = "4" />
+			</patcher>
+			<patcher name = "noteRow[3]">
+				<pattr name = "3_type" value = "1" />
+				<pattr name = "3_note" value = "52" />
+				<pattr name = "3_vel" value = "100" />
+				<pattr name = "3_durMs" value = "0" />
+				<pattr name = "3_durNote" value = "4" />
+			</patcher>
+			<patcher name = "noteRow[2]">
+				<pattr name = "4_type" value = "1" />
+				<pattr name = "4_note" value = "53" />
+				<pattr name = "4_vel" value = "100" />
+				<pattr name = "4_durMs" value = "0" />
+				<pattr name = "4_durNote" value = "4" />
+			</patcher>
+			<patcher name = "noteRow[6]">
+				<pattr name = "5_type" value = "1" />
+				<pattr name = "5_note" value = "55" />
+				<pattr name = "5_vel" value = "100" />
+				<pattr name = "5_durMs" value = "0" />
+				<pattr name = "5_durNote" value = "4" />
+			</patcher>
+			<patcher name = "noteRow[5]">
+				<pattr name = "6_type" value = "1" />
+				<pattr name = "6_note" value = "57" />
+				<pattr name = "6_vel" value = "100" />
+				<pattr name = "6_durMs" value = "0" />
+				<pattr name = "6_durNote" value = "4" />
+			</patcher>
+			<patcher name = "noteRow[4]">
+				<pattr name = "7_type" value = "1" />
+				<pattr name = "7_note" value = "59" />
+				<pattr name = "7_vel" value = "100" />
+				<pattr name = "7_durMs" value = "0" />
+				<pattr name = "7_durNote" value = "4" />
+			</patcher>
+			<patcher name = "noteRow[13]">
+				<pattr name = "8_type" value = "1" />
+				<pattr name = "8_note" value = "60" />
+				<pattr name = "8_vel" value = "100" />
+				<pattr name = "8_durMs" value = "0" />
+				<pattr name = "8_durNote" value = "4" />
+			</patcher>
+			<patcher name = "noteRow[12]">
+				<pattr name = "9_type" value = "1" />
+				<pattr name = "9_note" value = "62" />
+				<pattr name = "9_vel" value = "100" />
+				<pattr name = "9_durMs" value = "0" />
+				<pattr name = "9_durNote" value = "4" />
+			</patcher>
+			<patcher name = "noteRow[11]">
+				<pattr name = "10_type" value = "1" />
+				<pattr name = "10_note" value = "64" />
+				<pattr name = "10_vel" value = "100" />
+				<pattr name = "10_durMs" value = "0" />
+				<pattr name = "10_durNote" value = "4" />
+			</patcher>
+			<patcher name = "noteRow[10]">
+				<pattr name = "11_type" value = "1" />
+				<pattr name = "11_note" value = "65" />
+				<pattr name = "11_vel" value = "100" />
+				<pattr name = "11_durMs" value = "0" />
+				<pattr name = "11_durNote" value = "4" />
+			</patcher>
+			<patcher name = "noteRow[9]">
+				<pattr name = "12_type" value = "1" />
+				<pattr name = "12_note" value = "67" />
+				<pattr name = "12_vel" value = "100" />
+				<pattr name = "12_durMs" value = "0" />
+				<pattr name = "12_durNote" value = "4" />
+			</patcher>
+			<patcher name = "noteRow[8]">
+				<pattr name = "13_type" value = "1" />
+				<pattr name = "13_note" value = "69" />
+				<pattr name = "13_vel" value = "100" />
+				<pattr name = "13_durMs" value = "0" />
+				<pattr name = "13_durNote" value = "4" />
+			</patcher>
+			<patcher name = "noteRow[7]">
+				<pattr name = "14_type" value = "1" />
+				<pattr name = "14_note" value = "71" />
+				<pattr name = "14_vel" value = "100" />
+				<pattr name = "14_durMs" value = "0" />
+				<pattr name = "14_durNote" value = "4" />
+			</patcher>
+			<patcher name = "noteRow[27]">
+				<pattr name = "15_type" value = "1" />
+				<pattr name = "15_note" value = "72" />
+				<pattr name = "15_vel" value = "100" />
+				<pattr name = "15_durMs" value = "0" />
+				<pattr name = "15_durNote" value = "4" />
+			</patcher>
+			<patcher name = "noteRow[26]">
+				<pattr name = "16_type" value = "1" />
+				<pattr name = "16_note" value = "74" />
+				<pattr name = "16_vel" value = "100" />
+				<pattr name = "16_durMs" value = "0" />
+				<pattr name = "16_durNote" value = "4" />
+			</patcher>
+			<patcher name = "noteRow[25]">
+				<pattr name = "17_type" value = "1" />
+				<pattr name = "17_note" value = "76" />
+				<pattr name = "17_vel" value = "100" />
+				<pattr name = "17_durMs" value = "0" />
+				<pattr name = "17_durNote" value = "4" />
+			</patcher>
+			<patcher name = "noteRow[24]">
+				<pattr name = "18_type" value = "1" />
+				<pattr name = "18_note" value = "77" />
+				<pattr name = "18_vel" value = "100" />
+				<pattr name = "18_durMs" value = "0" />
+				<pattr name = "18_durNote" value = "4" />
+			</patcher>
+			<patcher name = "noteRow[23]">
+				<pattr name = "19_type" value = "1" />
+				<pattr name = "19_note" value = "79" />
+				<pattr name = "19_vel" value = "100" />
+				<pattr name = "19_durMs" value = "0" />
+				<pattr name = "19_durNote" value = "4" />
+			</patcher>
+			<patcher name = "noteRow[22]">
+				<pattr name = "20_type" value = "1" />
+				<pattr name = "20_note" value = "81" />
+				<pattr name = "20_vel" value = "100" />
+				<pattr name = "20_durMs" value = "0" />
+				<pattr name = "20_durNote" value = "4" />
+			</patcher>
+			<patcher name = "noteRow[21]">
+				<pattr name = "21_type" value = "1" />
+				<pattr name = "21_note" value = "83" />
+				<pattr name = "21_vel" value = "100" />
+				<pattr name = "21_durMs" value = "0" />
+				<pattr name = "21_durNote" value = "4" />
+			</patcher>
+			<patcher name = "noteRow[20]">
+				<pattr name = "22_type" value = "1" />
+				<pattr name = "22_note" value = "84" />
+				<pattr name = "22_vel" value = "100" />
+				<pattr name = "22_durMs" value = "0" />
+				<pattr name = "22_durNote" value = "4" />
+			</patcher>
+			<patcher name = "noteRow[19]">
+				<pattr name = "23_type" value = "1" />
+				<pattr name = "23_note" value = "86" />
+				<pattr name = "23_vel" value = "100" />
+				<pattr name = "23_durMs" value = "0" />
+				<pattr name = "23_durNote" value = "4" />
+			</patcher>
+			<patcher name = "noteRow[18]">
+				<pattr name = "24_type" value = "1" />
+				<pattr name = "24_note" value = "88" />
+				<pattr name = "24_vel" value = "100" />
+				<pattr name = "24_durMs" value = "0" />
+				<pattr name = "24_durNote" value = "4" />
+			</patcher>
+			<patcher name = "noteRow[17]">
+				<pattr name = "25_type" value = "1" />
+				<pattr name = "25_note" value = "89" />
+				<pattr name = "25_vel" value = "100" />
+				<pattr name = "25_durMs" value = "0" />
+				<pattr name = "25_durNote" value = "4" />
+			</patcher>
+			<patcher name = "noteRow[16]">
+				<pattr name = "26_type" value = "1" />
+				<pattr name = "26_note" value = "91" />
+				<pattr name = "26_vel" value = "100" />
+				<pattr name = "26_durMs" value = "0" />
+				<pattr name = "26_durNote" value = "4" />
+			</patcher>
+			<patcher name = "noteRow[15]">
+				<pattr name = "27_type" value = "1" />
+				<pattr name = "27_note" value = "93" />
+				<pattr name = "27_vel" value = "100" />
+				<pattr name = "27_durMs" value = "0" />
+				<pattr name = "27_durNote" value = "4" />
+			</patcher>
+			<patcher name = "noteRow[14]">
+				<pattr name = "28_type" value = "1" />
+				<pattr name = "28_note" value = "95" />
+				<pattr name = "28_vel" value = "100" />
+				<pattr name = "28_durMs" value = "0" />
+				<pattr name = "28_durNote" value = "4" />
+			</patcher>
+			<pattr name = "chan1" value = "1" />
+			<pattr name = "chan2" value = "2" />
+			<pattr name = "chan3" value = "3" />
+			<pattr name = "chan4" value = "4" />
+		</patcher>
+	</slot>
+	<slot number = "10">
+		<pattr name = "length" value = "32" />
+		<pattr name = "pattern" value = "0 0 0" />
+		<pattr name = "monomeSize" value = "" />
+		<patcher name = "midiStuff">
+			<patcher name = "noteRow">
+				<pattr name = "1_type" value = "1" />
+				<pattr name = "1_note" value = "36" />
+				<pattr name = "1_vel" value = "0" />
+				<pattr name = "1_durMs" value = "0" />
+				<pattr name = "1_durNote" value = "4" />
+			</patcher>
+			<patcher name = "noteRow[1]">
+				<pattr name = "2_type" value = "1" />
+				<pattr name = "2_note" value = "37" />
+				<pattr name = "2_vel" value = "0" />
+				<pattr name = "2_durMs" value = "0" />
+				<pattr name = "2_durNote" value = "4" />
+			</patcher>
+			<patcher name = "noteRow[3]">
+				<pattr name = "3_type" value = "" />
+				<pattr name = "3_note" value = "" />
+				<pattr name = "3_vel" value = "" />
+				<pattr name = "3_durMs" value = "" />
+				<pattr name = "3_durNote" value = "" />
+			</patcher>
+			<patcher name = "noteRow[2]">
+				<pattr name = "4_type" value = "" />
+				<pattr name = "4_note" value = "" />
+				<pattr name = "4_vel" value = "" />
+				<pattr name = "4_durMs" value = "" />
+				<pattr name = "4_durNote" value = "" />
+			</patcher>
+			<patcher name = "noteRow[6]">
+				<pattr name = "5_type" value = "" />
+				<pattr name = "5_note" value = "" />
+				<pattr name = "5_vel" value = "" />
+				<pattr name = "5_durMs" value = "" />
+				<pattr name = "5_durNote" value = "" />
+			</patcher>
+			<patcher name = "noteRow[5]">
+				<pattr name = "6_type" value = "1" />
+				<pattr name = "6_note" value = "41" />
+				<pattr name = "6_vel" value = "0" />
+				<pattr name = "6_durMs" value = "0" />
+				<pattr name = "6_durNote" value = "4" />
+			</patcher>
+			<patcher name = "noteRow[4]">
+				<pattr name = "7_type" value = "" />
+				<pattr name = "7_note" value = "" />
+				<pattr name = "7_vel" value = "" />
+				<pattr name = "7_durMs" value = "" />
+				<pattr name = "7_durNote" value = "" />
+			</patcher>
+			<patcher name = "noteRow[13]">
+				<pattr name = "8_type" value = "" />
+				<pattr name = "8_note" value = "" />
+				<pattr name = "8_vel" value = "" />
+				<pattr name = "8_durMs" value = "" />
+				<pattr name = "8_durNote" value = "" />
+			</patcher>
+			<patcher name = "noteRow[12]">
+				<pattr name = "9_type" value = "" />
+				<pattr name = "9_note" value = "" />
+				<pattr name = "9_vel" value = "" />
+				<pattr name = "9_durMs" value = "" />
+				<pattr name = "9_durNote" value = "" />
+			</patcher>
+			<patcher name = "noteRow[11]">
+				<pattr name = "10_type" value = "" />
+				<pattr name = "10_note" value = "" />
+				<pattr name = "10_vel" value = "" />
+				<pattr name = "10_durMs" value = "" />
+				<pattr name = "10_durNote" value = "" />
+			</patcher>
+			<patcher name = "noteRow[10]">
+				<pattr name = "11_type" value = "" />
+				<pattr name = "11_note" value = "" />
+				<pattr name = "11_vel" value = "" />
+				<pattr name = "11_durMs" value = "" />
+				<pattr name = "11_durNote" value = "" />
+			</patcher>
+			<patcher name = "noteRow[9]">
+				<pattr name = "12_type" value = "" />
+				<pattr name = "12_note" value = "" />
+				<pattr name = "12_vel" value = "" />
+				<pattr name = "12_durMs" value = "" />
+				<pattr name = "12_durNote" value = "" />
+			</patcher>
+			<patcher name = "noteRow[8]">
+				<pattr name = "13_type" value = "" />
+				<pattr name = "13_note" value = "" />
+				<pattr name = "13_vel" value = "" />
+				<pattr name = "13_durMs" value = "" />
+				<pattr name = "13_durNote" value = "" />
+			</patcher>
+			<patcher name = "noteRow[7]">
+				<pattr name = "14_type" value = "" />
+				<pattr name = "14_note" value = "" />
+				<pattr name = "14_vel" value = "" />
+				<pattr name = "14_durMs" value = "" />
+				<pattr name = "14_durNote" value = "" />
+			</patcher>
+			<patcher name = "noteRow[27]">
+				<pattr name = "15_type" value = "" />
+				<pattr name = "15_note" value = "" />
+				<pattr name = "15_vel" value = "" />
+				<pattr name = "15_durMs" value = "" />
+				<pattr name = "15_durNote" value = "" />
+			</patcher>
+			<patcher name = "noteRow[26]">
+				<pattr name = "16_type" value = "" />
+				<pattr name = "16_note" value = "" />
+				<pattr name = "16_vel" value = "" />
+				<pattr name = "16_durMs" value = "" />
+				<pattr name = "16_durNote" value = "" />
+			</patcher>
+			<patcher name = "noteRow[25]">
+				<pattr name = "17_type" value = "" />
+				<pattr name = "17_note" value = "" />
+				<pattr name = "17_vel" value = "" />
+				<pattr name = "17_durMs" value = "" />
+				<pattr name = "17_durNote" value = "" />
+			</patcher>
+			<patcher name = "noteRow[24]">
+				<pattr name = "18_type" value = "" />
+				<pattr name = "18_note" value = "" />
+				<pattr name = "18_vel" value = "" />
+				<pattr name = "18_durMs" value = "" />
+				<pattr name = "18_durNote" value = "" />
+			</patcher>
+			<patcher name = "noteRow[23]">
+				<pattr name = "19_type" value = "" />
+				<pattr name = "19_note" value = "" />
+				<pattr name = "19_vel" value = "" />
+				<pattr name = "19_durMs" value = "" />
+				<pattr name = "19_durNote" value = "" />
+			</patcher>
+			<patcher name = "noteRow[22]">
+				<pattr name = "20_type" value = "" />
+				<pattr name = "20_note" value = "" />
+				<pattr name = "20_vel" value = "" />
+				<pattr name = "20_durMs" value = "" />
+				<pattr name = "20_durNote" value = "" />
+			</patcher>
+			<patcher name = "noteRow[21]">
+				<pattr name = "21_type" value = "" />
+				<pattr name = "21_note" value = "" />
+				<pattr name = "21_vel" value = "" />
+				<pattr name = "21_durMs" value = "" />
+				<pattr name = "21_durNote" value = "" />
+			</patcher>
+			<patcher name = "noteRow[20]">
+				<pattr name = "22_type" value = "" />
+				<pattr name = "22_note" value = "" />
+				<pattr name = "22_vel" value = "" />
+				<pattr name = "22_durMs" value = "" />
+				<pattr name = "22_durNote" value = "" />
+			</patcher>
+			<patcher name = "noteRow[19]">
+				<pattr name = "23_type" value = "" />
+				<pattr name = "23_note" value = "" />
+				<pattr name = "23_vel" value = "" />
+				<pattr name = "23_durMs" value = "" />
+				<pattr name = "23_durNote" value = "" />
+			</patcher>
+			<patcher name = "noteRow[18]">
+				<pattr name = "24_type" value = "" />
+				<pattr name = "24_note" value = "" />
+				<pattr name = "24_vel" value = "" />
+				<pattr name = "24_durMs" value = "" />
+				<pattr name = "24_durNote" value = "" />
+			</patcher>
+			<patcher name = "noteRow[17]">
+				<pattr name = "25_type" value = "" />
+				<pattr name = "25_note" value = "" />
+				<pattr name = "25_vel" value = "" />
+				<pattr name = "25_durMs" value = "" />
+				<pattr name = "25_durNote" value = "" />
+			</patcher>
+			<patcher name = "noteRow[16]">
+				<pattr name = "26_type" value = "" />
+				<pattr name = "26_note" value = "" />
+				<pattr name = "26_vel" value = "" />
+				<pattr name = "26_durMs" value = "" />
+				<pattr name = "26_durNote" value = "" />
+			</patcher>
+			<patcher name = "noteRow[15]">
+				<pattr name = "27_type" value = "" />
+				<pattr name = "27_note" value = "" />
+				<pattr name = "27_vel" value = "" />
+				<pattr name = "27_durMs" value = "" />
+				<pattr name = "27_durNote" value = "" />
+			</patcher>
+			<patcher name = "noteRow[14]">
+				<pattr name = "28_type" value = "" />
+				<pattr name = "28_note" value = "" />
+				<pattr name = "28_vel" value = "" />
+				<pattr name = "28_durMs" value = "" />
+				<pattr name = "28_durNote" value = "" />
+			</patcher>
+			<pattr name = "chan1" value = "" />
+			<pattr name = "chan2" value = "" />
+			<pattr name = "chan3" value = "" />
+			<pattr name = "chan4" value = "" />
+		</patcher>
+	</slot>
+</pattrstorage>
+
